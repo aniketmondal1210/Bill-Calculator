@@ -81,8 +81,7 @@ Contributions are welcome! Follow these steps to contribute:
   5. Open a Pull Request.
 
 
-Author
-  <ul>https://github.com/aniketmondal1210</ul> 
+Author - <ul>https://github.com/aniketmondal1210</ul> 
 
 License
   This project is open-source and free to use.
