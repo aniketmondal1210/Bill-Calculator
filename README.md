@@ -50,7 +50,7 @@ Quantity for item 101: 2
 Quantity for item 102: 3
 Quantity for item 103: 1
 
-************ BILL ************\n
+************ BILL ************"\n"
 ITEM CODE    PRICE    QUANTITY    SUBTOTAL
 ------------------------------------------
 101         50         2         100
