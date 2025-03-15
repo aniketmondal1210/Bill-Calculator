@@ -66,7 +66,7 @@ Total Bill Amount: ₹210
 Future Enhancements
 
 1. Add a database to store item details.
-2. Implement a GUI version using Tkinter or PyQt.
+2. Implement a GUI version using Tkinter.
 3. Allow users to apply discounts and taxes.
 4. Generate invoice PDFs for the bill.
 
